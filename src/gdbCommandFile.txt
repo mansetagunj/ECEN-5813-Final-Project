@@ -1,0 +1,7 @@
+target remote localhost:7224
+monitor _reset
+set mem inaccessible-by-default off
+set tcp auto-retry on
+set tcp connect-timeout 30
+load project3.elf
+q

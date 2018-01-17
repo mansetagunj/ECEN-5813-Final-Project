@@ -1,0 +1,32 @@
+1512640761      3:<SYSTEM_INITIALIZED>
+
+1512640761      5:<INFO> SPI Initialized
+
+1512640761      5:<INFO> Nordic Initialized
+
+1512640761      5:<INFO> Nordic Test
+
+1512640761      5:<INFO> Write/Read Config Value Matched
+
+1512640761      5:<INFO> Sent: 0x48
+
+1512640761      5:<INFO> Recv: 0x48
+
+1512640761      5:<INFO> TX ADDRESSES SET: 0xba56ba56
+
+1512640761      5:<INFO> TX ADDRESSES GET: 0xba56ba56
+
+
+1512640761      5:<INFO> Write/Read RF CH Value Matched
+
+1512640761      5:<INFO> Sent: 0x10
+
+1512640761      5:<INFO> Recv: 0x10
+
+1512640761      5:<INFO> Write/Read RF Setup Value Matched
+
+1512640761      5:<INFO> Sent: 0x20
+
+1512640761      5:<INFO> Recv: 0x20
+
+1512640761      5:<INFO> Nordic Test End
