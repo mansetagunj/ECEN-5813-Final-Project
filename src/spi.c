@@ -2,7 +2,7 @@
  * spi.c
  *
  *  Created on: Dec 1, 2017
- *      Author: ashis
+ *      Author: Gunj Manseta
  */
 
 #include "spi.h"
